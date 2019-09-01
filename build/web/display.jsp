@@ -28,7 +28,7 @@
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
-}
+
 
 
 </style>
